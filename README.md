@@ -1,2 +1,2 @@
-# proyecto1-inventario
+# Proyecto1-inventario
 Front end del ejercicio de inventario
